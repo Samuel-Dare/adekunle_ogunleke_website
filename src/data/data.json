@@ -1,0 +1,136 @@
+{
+  "artworks": [
+    {
+      "id": 1,
+      "title": "Portrait of Abigail",
+      "medium": "Pencil on Paper",
+      "year": 2022,
+      "category": "Drawing",
+      "image": "assets/drawing1.jpg",
+      "description": "A realistic portrait drawing of Abigail",
+      "dimensions": {
+        "width": 24,
+        "height": 18,
+        "unit": "inches"
+      }
+    },
+    {
+      "id": 2,
+      "title": "The Hands Drawing",
+      "medium": "Charcoal on Paper",
+      "year": 2022,
+      "category": "Drawing",
+      "image": "assets/drawing2.jpg",
+      "description": "An imaginative drawing of many struggling hands rendered in charcoal inspired by ....",
+      "dimensions": {
+        "width": 24,
+        "height": 18,
+        "unit": "inches"
+      }
+    },
+    {
+      "id": 3,
+      "title": "A Bicycle Painting",
+      "medium": "Oil on Canvas",
+      "year": 2023,
+      "category": "Painting",
+      "image": "assets/painting1.jpg",
+      "description": "A painting of a bicycle inspired by ....",
+      "dimensions": {
+        "width": 36,
+        "height": 24,
+        "unit": "inches"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Man in Gallery",
+      "medium": "Oil on Canvas",
+      "year": 2023,
+      "category": "Painting",
+      "image": "assets/painting2.jpg",
+      "description": "A painting of a man in a gallery inspired by ....",
+      "dimensions": {
+        "width": 36,
+        "height": 24,
+        "unit": "inches"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Man on Fire in Mombasa",
+      "medium": "Oil on Canvas",
+      "year": 2023,
+      "category": "Painting",
+      "image": "assets/abstract1.jpg",
+      "description": "An abstract of a  inspired by ....",
+      "dimensions": {
+        "width": 36,
+        "height": 24,
+        "unit": "inches"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Igbo Refugees",
+      "medium": "Acrylic on Canvas",
+      "year": 2023,
+      "category": "Painting",
+      "image": "assets/abstract3.jpg",
+      "description": "An abstract painting of Igbo refugees making their way along a road in the city of Owerri, inspired by ....",
+      "dimensions": {
+        "width": 36,
+        "height": 24,
+        "unit": "inches"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Lekki Protesters",
+      "medium": "Acrylic on Canvas",
+      "year": 2023,
+      "category": "Painting",
+      "image": "assets/abstract2.jpg",
+      "description": "An abstract painting in geometric shapes and vibrant colors of Lekki protesters, inspired by ....",
+      "dimensions": {
+        "width": 36,
+        "height": 24,
+        "unit": "inches"
+      }
+    }
+  ],
+
+  "videoArtworks": [
+    {
+      "id": 1,
+      "title": "A Video of the Artist while Drawing",
+      "description": "This is a video of the Dekunle Art while drawing an artwork.",
+      "videoUrl": "assets/video1.mp4",
+      "thumbnailUrl": "assets/drawing1.jpg"
+    }
+  ],
+
+  "exhibitions": [
+    {
+      "title": "Art Exhibition",
+      "date": "2024-03-15",
+      "location": "Art Gallery, USA",
+      "description": "An exhibition showcasing various forms of art including paintings, sculptures, and installations.",
+      "organizer": "Art Society of America"
+    },
+    {
+      "title": "Abstract Art Show",
+      "date": "2024-04-10",
+      "location": "Modern Art Museum, USA",
+      "description": "A curated display of abstract artworks exploring diverse themes and techniques.",
+      "organizer": "Modern Art Society"
+    },
+    {
+      "title": "Modern Art Showcase",
+      "date": "2024-01-20",
+      "location": "Contemporary Art Center, USA",
+      "description": "A comprehensive exhibition featuring contemporary artworks from renowned artists.",
+      "organizer": "Contemporary Art Association"
+    }
+  ]
+}
